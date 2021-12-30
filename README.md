@@ -2,6 +2,7 @@
 - 👀 I’m interested in astrophysics / investment / dev
 - 🌱 I’m currently learning at epitech
 
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Twitter: V_Sorais](https://img.shields.io/twitter/follow/V_Sorais?style=social)](https://twitter.com/V_Sorais)
 [![GitHub soraisv2](https://img.shields.io/github/followers/soraisv2?label=follow&style=social)](https://github.com/soraisv2)
