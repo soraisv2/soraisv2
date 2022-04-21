@@ -19,9 +19,6 @@
 [![Linkedin victor-pierre-sorais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-pierre-sorais-1756a1185/)
 [![Stackoverflow victor-pierre-sorais](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16548300/niewtone)
 
-[![GitHub soraisv2](https://img.shields.io/github/followers/soraisv2?label=follow&style=social)](https://github.com/soraisv2)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=soraisv2.soraisv2)
-
 
 <!---
 soraisv2/soraisv2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
