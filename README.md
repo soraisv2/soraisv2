@@ -15,9 +15,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
-<a href="https://github.com/soraisv2"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soraisv2&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="VIctor Sorais's github stats" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soraisv2&layout=compact&theme=github_dark&hide_border=true" /></a>
-
 
 [![Linkedin victor-pierre-sorais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-pierre-sorais-1756a1185/)
 [![Stackoverflow victor-pierre-sorais](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16548300/niewtone)
