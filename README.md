@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### <div style="textAlign: center;">I'm Victor Sorais, 3rd year student at [{EPITECH}](https://www.epitech.eu/fr/). I'm able to create your website and/or your mobile application.</div>
+### <div style="text-align: center;">I'm Victor Sorais, 3rd year student at [{EPITECH}](https://www.epitech.eu/fr/). I'm able to create your website and/or your mobile application.</div>
 
 
 [![Linkedin victor-pierre-sorais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-pierre-sorais-1756a1185/)
