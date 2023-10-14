@@ -4,7 +4,8 @@
 
 <!-- I'm Victor Sorais, four year student at [{EPITECH}](https://www.epitech.eu/fr/). You can visit my web site [victorsorais.fr](https://www.victorsorais.fr)(under construction) -->
   
-  I'm Front-end web developer specialized in [Vue3](https://vuejs.org) I'm also skilled in python
+  I'm Front-end web developer specialized in [Vue3](https://vuejs.org)
+  I'm also skilled in python
 
 
 [![Linkedin victor-pierre-sorais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-pierre-sorais-1756a1185/)
